@@ -177,3 +177,4 @@ go.work.sum
 *bpfeb.go
 *bpfel.go
 ebpf-for-java
+bin/
